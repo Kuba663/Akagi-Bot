@@ -17,7 +17,6 @@
     "bot",
     "riichi"
   ],
-  "start": "coffee discordbot.coffee",
   "contributors": [
     "Micah Workman",
     "Skylar Downes"
